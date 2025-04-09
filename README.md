@@ -24,6 +24,13 @@ This is a lightweight backend API built with **FastAPI**, demonstrating basic **
 
 ---
 
+## 📸 Screenshots
+
+### 🔎 Swagger UI Documentation
+![Swagger UI](./screenshots/swagger-ui.png)
+
+---
+
 ## 🚀 Getting Started
 
 ### ✅ 1. Clone the Repository
